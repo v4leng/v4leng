@@ -1,6 +1,6 @@
 <h2 align="center">Hii!, I´m  Valentina Gomez</h2>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4leng&show_icons=true&theme=radical)
 
 ###
 
@@ -53,7 +53,9 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4leng&show_icons=true&theme=radical)
+  
+[![](https://visitcount.itsvg.in/api?id=v4leng&icon=8&color=12)](https://visitcount.itsvg.in)
+
 
 
 
